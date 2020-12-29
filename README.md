@@ -1,2 +1,3 @@
 # ML-projects
-learning github
+Machine Learning Projects using Python.
+
